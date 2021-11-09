@@ -1,0 +1,47 @@
+{
+    "coord":{
+       "lon":-111.8763,
+       "lat":40.6255
+    },
+    "weather":[
+       {
+          "id":500,
+          "main":"Rain",
+          "description":"light rain",
+          "icon":"10d"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":49.08,
+       "feels_like":48.65,
+       "temp_min":42.28,
+       "temp_max":55.67,
+       "pressure":1018,
+       "humidity":71
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":3,
+       "deg":252,
+       "gust":11.01
+    },
+    "rain":{
+       "1h":0.18
+    },
+    "clouds":{
+       "all":90
+    },
+    "dt":1636484839,
+    "sys":{
+       "type":2,
+       "id":2006378,
+       "country":"US",
+       "sunrise":1636466850,
+       "sunset":1636503319
+    },
+    "timezone":-25200,
+    "id":5781004,
+    "name":"Salt Lake",
+    "cod":200
+ }
